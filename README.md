@@ -1,1 +1,1 @@
-Projekt Tic-tac-toe, který jsem vypracoval rámci Python akademie od Engeto.
+Project Tic-tac-toe, which I proccessed during course Python academy by Engeto.ltd.
